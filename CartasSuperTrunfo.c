@@ -17,6 +17,30 @@ int main() {
 
   // Área para entrada de dados
 
+  printf("Carta 1:\n");
+
+  printf("Estado:");
+  scanf("%c", &estado1);
+
+  printf("Codigo:");
+  scanf("%s", codigo1);
+
+  printf("Cidade:");
+  scanf("%s", cidade1);
+
+  printf("Populacao:");
+  scanf("%d", populacao1);
+
+  printf("Area:");
+  scanf("%f", area1);
+
+  printf("Pib:");
+  scanf("%f", pib1);
+
+  printf("Pontos:");
+  scanf("%d", pontos1);
+
+
   // Área para exibição dos dados da cidade
 
 return 0;
