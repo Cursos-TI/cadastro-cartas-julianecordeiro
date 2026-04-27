@@ -64,11 +64,10 @@
   scanf("%d", &pontos2);
 
 
-
-
   // Área para exibição dos dados da cidade
 
- printf("\nCarta 1:\n");
+
+printf("\nCarta 1:\n");
 printf("Estado: %c\n", estado1);
 printf("Codigo: %s\n", codigo1);
 printf("Cidade: %s\n", cidade1);
@@ -85,8 +84,6 @@ printf("Populacao: %d\n", populacao2);
 printf("Area: %.2f\n", area2);
 printf("Pib: %.2f\n", pib2);
 printf("Pontos: %d\n", pontos2);
-
-
 
 return 0;
 } 
